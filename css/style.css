@@ -15,7 +15,7 @@
     font-size: 18px;
 }
 
-.main-pic {
+.padding-top {
     padding-top: 100px;
 }
 
@@ -29,4 +29,17 @@
 
 .medium-text {
     font-size: 25px;
+}
+.margin-for-block {
+    margin-right: 550px;
+}
+
+.image-size {
+    width: 720px;
+}
+
+.set-input-text {
+    font-size: 25px;
+    position: relative;
+    bottom: 30px;
 }
