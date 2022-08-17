@@ -48,3 +48,15 @@
     position: relative;
     top: 20px;
 }
+
+.load-button {
+    color: rgba(0, 0, 0, 0.664);
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.border-button {
+    border: 1px solid rgba(0, 0, 0, 0.548);
+    width: 400px;
+    height: 80px;
+}
